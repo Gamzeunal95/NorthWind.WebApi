@@ -1,5 +1,5 @@
 # NorthWind.WebApi
-- ASP.NET Core Web API projesi açıldı.
+- ASP.NET Core Web API solution açıldı.
 
 # Project 1 - NorthWind.WebApi
 - Aşağıdaki paketler indirildi.
