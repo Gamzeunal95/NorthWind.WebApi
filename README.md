@@ -13,3 +13,12 @@
 
 #### Controller Açarken 
 - Controller Sağ Click -> Add -> Controller -> (Açılan Sayfada) -> API -> (o kısımda) -> API Controller with actions, using Entity FrameWork -> Seçimleri yap. 
+
+(https://northwind.vercel.app/)
+(https://json2csharp.com/)
+(https://jwt.io/)
+
+# Project 2 - NorthwindConsole.TestApi
+- Console Projesi
+- Bu kısımda client API olarak çalıştık.
+- Newtonsoft.Json paketini kullandık. 
