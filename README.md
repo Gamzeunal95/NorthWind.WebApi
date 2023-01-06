@@ -25,3 +25,4 @@
 - Console Projesi
 - Bu kısımda client API olarak çalıştık.
 - Newtonsoft.Json paketini kullandık. 
+- Redis 
