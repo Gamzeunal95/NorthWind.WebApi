@@ -9,7 +9,7 @@
   - Newtonsoft.Json
   - StackExchange.Redis
 - Northwind Database'ini kullanacağımız için scaffold yaparak northwind'in Entitieslerini aldık. 
-`dotnet ef dbcontext scaffold "Server(localdb)\mssqllocaldb;Database=Northwind;Trusted_Connection=True" Microsoft.EntityFrameWorkCore.SqlServer -o Entities`
+`dotnet ef dbcontext scaffold "Server=(localdb)\mssqllocaldb;Database=Northwind;Trusted_Connection=True" Microsoft.EntityFrameWorkCore.SqlServer -o Entities`
 - Test etmek için [Postman](https://www.postman.com/downloads/) kullanabiliriz. 
 - appsettings.json ve program.cs içinde connection string tanımlanması gerekli. 
 - **ModelsFOlder**
